@@ -1,0 +1,70 @@
+{
+    "video": [
+        {
+            "id": 1,
+            "language": "en",
+            "video_url": "https://www.youtube.com/watch?v=Ke84KFEiz4U",
+            "description": "r/Maliciouscompliance In today's episode, OP is a hearing-impaired student in a music class with a stuck-up teacher.",
+            "tags": [
+                "reddit",
+                "story",
+                "malicious compliance"
+            ]
+        },
+        {
+            "id": 2,
+            "language": "en",
+            "video_url": "https://www.youtube.com/watch?v=wvfpC3A_3iA",
+            "description": "Sweetest pittie gains foster kittens' trust by letting them nurse on her.",
+            "tags": [
+                "animal",
+                "rescue",
+                "cute"
+            ]
+        },
+        {
+            "id": 3,
+            "language": "fr",
+            "video_url": "https://www.youtube.com/watch?v=wTvsyaa20Ac",
+            "description": "Rarement la naissance d’une brebis a suscité à la fois crainte et espoir. Le 23 février 1997, des scientifiques écossais révèlent au monde qu’ils ont réussi à cloner une brebis qu'ils appellent Dolly.",
+            "tags": [
+                "science",
+                "news",
+                "clonage"
+            ]
+        },
+        {
+            "id": 4,
+            "language": "fr",
+            "video_url": "https://www.youtube.com/watch?v=PhVri4pYRD4",
+            "description": "La pandémie a aussi de lourdes conséquences sur l'apprentissage des jeunes au cégep. Le nombre de cours abandonnés a quintuplé depuis deux ans.",
+            "tags": [
+                "news",
+                "school",
+                "pandemic"
+            ]
+        },
+        {
+            "id": 5,
+            "language": "fr",
+            "video_url": "https://www.youtube.com/watch?v=SOg_sn9XlKo",
+            "description": "Les Canadiens dépensent près de 10 milliards de dollars par année sur Amazon.ca. Le géant du commerce en ligne est un paradis pour les consommateurs mais il peut devenir infernal pour les vendeurs qui s’y aventurent",
+            "tags": [
+                "news",
+                "amazon",
+                "investigation"
+            ]
+        },
+        {
+            "id": 6,
+            "language": "fr",
+            "video_url": "https://www.youtube.com/watch?v=WGyE9aEueDY",
+            "description": "Le controversé « Bonjour-Hi » dans les commerces du centre-ville de Montréal est-il en train de devenir tout simplement « Hi » ?",
+            "tags": [
+                "news",
+                "fear",
+                "language"
+            ]
+        }
+    ]
+}
